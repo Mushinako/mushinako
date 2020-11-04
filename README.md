@@ -39,10 +39,10 @@ I'm a college student with immense interest in the field of programming and gene
 [![Harvard CS50 Web](https://github-readme-stats.vercel.app/api/pin?username=mushinako&repo=CS50-Web)](https://github.com/Mushinako/CS50-Web)
 [![Error propagation calculations](https://github-readme-stats.vercel.app/api/pin?username=mushinako&repo=Error-Calc)](https://github.com/Mushinako/Error-Calc)
 
-## Topics I'm interested in
+## Research topics I'm interested in
 
 <details>
-<summary>Topics</summary>
+<summary>Click to expand</summary>
 
 ### Data analytics
 
