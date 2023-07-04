@@ -19,8 +19,6 @@ I use **Python** 🐍 *hssss* mainly for general programming, and mainly
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](#)
-[![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)](#)
 
 Oh yeah. I also like anime and gaming, mostly in **casual**, **simulation**, and
 **survival** genres. I also recently became a helper staff at
