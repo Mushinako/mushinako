@@ -3,8 +3,7 @@
 **Mushinako** here! Thank you for visiting! I like talking with others, so feel
 free to reach out to me!
 
-[![Personal email](https://img.shields.io/badge/Personal%20Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridoedee@gmail.com)
-[![Work email](https://img.shields.io/badge/Work%20Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:lml.ziyu.li.769108@gmail.com)
+[![Personal email](https://img.shields.io/badge/Personal%20Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:my-github@mushinako.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziyu-l-13a25595/)
 <!-- [![Webpage (Coming Soon)](https://img.shields.io/badge/Webpage%20(Coming%20Soon)-%23000000.svg?&style=for-the-badge)](https://mushinako.me) -->
 
