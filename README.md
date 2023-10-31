@@ -14,7 +14,7 @@ other fields such as **mathematics** ➕, **chemistry** 🧪, **biomedical** �
 and ideas from different fields.
 
 I use **Python** 🐍 *hssss* mainly for general programming, and mainly
-**TypeScript** for web-related stuff. Currently learning **Go** and **Rust**!
+**TypeScript** for web-related stuff. Currently learning **Rust**!
 
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
